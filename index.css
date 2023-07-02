@@ -6,6 +6,7 @@
 }
 
 #game {
+  background-image: linear-gradient(left, red,orange,yellow,green,blue,indigo,);
   background-color: #111;
   height: 400px;
   margin: 0 auto;
